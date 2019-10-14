@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/legotheme_fragment"
+        android:title="@string/lavel_browse_themes"/>
+
+    <item android:id="@+id/legosets_fragment"
+        android:title="@string/label_browse_all_sets"/>
+
+</menu>

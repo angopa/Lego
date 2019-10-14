@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LegoMvvm</string>
+    <string name="label_super_heroes">Super Heroes</string>
+    <string name="label_browse_all_sets">Browse All Sets</string>
+    <string name="lavel_browse_themes">Browse Themes</string>
+    <string name="navigation_drawer_header_content_description">Navigation drawer header logo</string>
+    <string name="navigation_drawer_header_title">LEGO</string>
+    <string name="label_browse_themes">Browse Themes</string>
+    <string name="label_check_sets">Set details</string>
+    <string name="content_description_picture_of_lego_set">Picture Of lego Set</string>
+    <string name="lego_set_title">Browse All Sets</string>
+    <string name="menu_label_switch_between_grid_list_and_list">Switch between grid list and list</string>
+</resources>
